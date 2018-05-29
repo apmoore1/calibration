@@ -38,6 +38,7 @@ pydot==1.2.4
 Pygments==2.2.0
 pyparsing==2.2.0
 python-dateutil==2.7.2
+-e git+https://github.com/myaooo/pytreebank@10cfcf8b916361c0eccd5cb17372e25ac4af6593#egg=pytreebank
 pytz==2018.4
 PyYAML==3.12
 pyzmq==17.0.0
